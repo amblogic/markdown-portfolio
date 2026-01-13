@@ -1,5 +1,3 @@
-[Back to main page](./../README.md)
-
 <h1 align="center">Education</h1>
 <table>
   <tr>
@@ -39,5 +37,3 @@
     <td><image alt="GFSD" src="../assets/images/gfsd-logo.jpg" /></td>
   </tr>
 </table>
-
-[Back to main page](./../README.md)
